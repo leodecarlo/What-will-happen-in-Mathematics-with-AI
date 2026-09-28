@@ -36,5 +36,5 @@ I do not see this way of working as a threat to mathematics.
 </p>
 
 <p align="justify">
-The sick way would be to try to use an autonomous agentic AI workflow to produce papers in series in one shot. Namely, you connect your model's app to your folders and build a harness (i.e., a structure in which AI can work for a long time while pursuing a goal without getting lost).
+The sick way would be to try to use an autonomous agentic AI workflow to produce papers in series in one shot. Namely, you connect your model's app to your folders and build a harness (i.e., a structure in which AI can work for a long time while pursuing a goal without getting lost). You can read a short guide on how to use this mode <a href="https://github.com/leodecarlo/How-to-adopt-an-agentic-AI-workflow-for-Mathematics">here</a> if interested.
 </p>
