@@ -8,4 +8,10 @@ But the problem was starting to work for real, given that I was neither able to 
 Later at the beginning of 2025 I came back to live in Portugal for a job mainly for  teaching and in the meanwhile in the middle of 2026 I had the opportunity to have  new job in Mathematical Research. So I came back in Mathematics Research at a similar point where I was in 2023 with my new job. So I did not feel that things were dramatically changing in my daily job, given that I was restarting my old job without settled network, it was natural to recur to AI to look for help.
 
 
-# 
+# Living with AI will be a brain teaser(and a danger) for Mathematician but will not damage Mathematics itself
+
+Of course running all that computational resources and consuming all that energy for solving a Math problem is sage and it was a demostration of force of what the model can do, but that is temporary intermediate steps for BigTechs. Indeed the AI supermathematician, after the AI supercode is just an intermediate to run the future AI autonomous lab acroos sciences. So Mathematicians will be able to take a breath soon. Also I permit to critique the letter of the Fields, they have never been so rapid to defend the Mathematical Science from the risk  of the Academic Environment, and for most of Phds student is not true that Academia is palce where to flourish with all those  opportunities to learn from their seniors nor current Academia is a land with the primary goals of implant new idea and understading NAture.
+
+I think there are healthy ways and sick ways to work with AI.  Now it is possible to adopt two ways for working with AI, the "traditional" one where you work with AI as peer with a Chat, the one that is mainly used and know. If you take time to figure out what they say and proceed by steps I do not see this that different than working with a peer exchaning informations and learning from the others. "Understanding" 
+
+The sick way will that trying to use the autonomous agenti AI workflow to one-shot papers in series.
