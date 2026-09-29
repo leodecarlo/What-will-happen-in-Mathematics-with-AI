@@ -90,31 +90,45 @@ For Mathematician the equivalent will  loosing the ability of doing pure computa
 
 ## Model Avalilability and Transfer Knowledge
 
-One central questions it the availability of AI frontier model, given that they have a cost. This implicate that they will be more available to researchers in richer country and richer Univeristy. On this I have to complain with the initiative AI for research from OpenAI where AI will make available a certain numbers of seats available
+One central questions it the availability of AI frontier model, given that they have a cost. This implicate that they will be more available to researchers in richer country and richer Univeristy. On this point, I have a criticism of OpenAI’s <a href="https://openai.com/index/chatgpt-for-academic-researchers/">ChatGPT for Academic Researchers</a> program, which offers a certain number of free seats to academic researchers accros the world. Most of the eligible institution are from US or well-known North European Univeristy. Of course Institutio as IAS of Princetion and ENS de Paris they do not need a free subscriptions to Pro models. For example, here in Portugal, just University of Porto is eligible. The execuse is that the tools will do the best in the best hands. Instead I think that this tools can transfer knowledge to less scientifically developed country to make them growth, given that often the scientifical growth a person is an interacting activity, where someone show how to do things and explain. I think that the availability of these models can make growth the scientifical abilties of less developed countries. This might be ameliorated by the fact that after some lapse of time, trough something called model distillation, the free chinese model goos as much as the previous generations of US models.
 
+## Infrastructure dependence
+
+An important point is also the infrastructure dependece, indeed in Europe we just build this still very confused Project called Euro-HPC to create AI-factories. But nor the organization neither the scale infrastructure is suitable to develop AI LLM frontiers models and even less to give a commercial service. So we have to hope they will keep to available at the same prices.
+
+## The disruption of the triad Small_communities-Journals-Grants
+
+Most of mathematicians work in small communities that proceed to develop some technical self-defined framework,  agnostic to the outside world. AI models are better more the problem is circumscribed, so communities will have to shift in choicing problems of more general interest, explaining why they want to address something. The already too large paper productions will be out of control, so I have no idea if journal will continue to exist. A possible scheme is adopting  free repository for pubblications, with a bound of max 1-2 pubblications per year,  with an open review process where, after a technical check of the result, assisted by LLMs, one of the authors explain why they did that and why it is relevant , while the review make his point he agrees or not. 
+About grants, I have no idea how they should evolve, maybe the solution of the Navier-Stokes problem teaches us that it is more important having as much as possible having many person working on various subproblems.
+ 
 ## The Pros and the Cons of AI in Math
 
 I list some Pros and Cons that I see with introduction of AI in Math, plus some neutral points that I let the reader to decide.
 
-# Pros:
+### Pros:
 
-- 
+- Transfer knowledge: the models can provide for that interactive actitivy  and personal explanation necessary to learn to less scientifically developed comunities; 
 - Great synthesis and cross-fertilization between different area Mathematics;
 - Ability to solve models that were before not solvable;
 - Possibility to learn new literature and new areas you are not familiar with;
 - Attempting many routes to guess if some can be interesting, instead of giving up a priori or risking to wasting long months. More in general can give the courage to attempt things you would have not;
 - The number of Phds and Postdocs became high, many of them they do not real master-apprentice experience that was supposed to be, getting lost, often assigned to complete some unfinished task with not that much reflexetion or in some sort aof limbo of not knowing  how to proceed in short contract period of  work. On the other side Professors have little time to explain details on papers that the Phds and Postdocs would need. AI can fill the gap to introduce you in a topic, can avoid pro-forma assignments for better problem and probably avoiding that discomfort feeling of getting stucked.
 - Most of job in consulating for Mathematicians they are already gone. I put it between the pros because most of it are terrible;
-- At least in US, inside this BigTech companies,  we are seeing for the first time many mathematicians and theoretical physicists hired by companies to actually work on fundamentals science or in job that realluy require that type of strong theoretical brackground. We should be happy of these new job opportunities.
-- 
+-  At least in the US, we are seeing for the first time many mathematicians and theoretical physicists hired by Big Tech companies to work on fundamental science or in jobs that require a strong theoretical background. We should welcome these new job opportunities. I strongly suggest that PhDs keep an eye on the [OpenAI Residency](https://openai.com/residency/), which periodically opens well-paid, six-month research positions that can lead to full-time jobs.
+  
+### Cons
 
-# Cons
-
-- Availability of the models: 
+- Availability of the models: frontier models for research have a price, that is not obvious to be paid for less rich countries;
+- Infrastructure dependence: the models need for developing and commercial service humoungous infrastructure. Just Chine and US have it.
 - Loosing the ability to do computations by hand;
 - Loosing the ability to do code (Engineer as Andrew NG admitted he already rarely write a line of code);
 - Feeling less valuable;
 - Students will be even mode hesistant to enroll in Math programs;
 
+### Neutral Aspects
+
+- Math Departments should start buying tokens instead of journal subscription;
+- The journal-communities systems will have to change. Possibly adopting a bound of 1-2 pubblications per year with an open frontal review, technically assisted by LLMs, where the discussion is about why the work worthed to be done;
+  
 
 
