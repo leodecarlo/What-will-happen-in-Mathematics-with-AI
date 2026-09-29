@@ -22,7 +22,7 @@ On the contrary, I will argue that AI can lead to many connections between diffe
 </p>
 
 <p align="justify">
-(Ironically, one of the Fields Medalists was nominated as a strategic consultant for his country's scientific and technological strategy, yet considered AI (in the sense of LLMs) uninteresting and irrelevant. Years earlier, OpenAI and DeepMind had declared their intention to create AGI.I want to make a laude to these companies which are "solo" making the greatest scinetifical and technical enterprise of this century, keep going when continuously mocked. )
+(Ironically, one of the Fields Medalists was nominated as a strategic consultant for his country's scientific and technological strategy, yet considered AI (in the sense of LLMs) uninteresting and irrelevant. Years earlier, OpenAI and DeepMind had declared their intention to create AGI. I want to praise these companies, which are undertaking the greatest scientific and technical enterprise of this century "solo" and keep going despite being continuously mocked.)
 </p>
 
 ## The ways of working with AI
@@ -135,7 +135,7 @@ Ability to solve models that were previously unsolvable;
 </li>
 <li>
 <p align="justify">
-Many new problems and unxpected applications of Math coming from the use of AI by scientists accross all disciplines;
+Many new problems and unexpected applications of mathematics coming from the use of AI by scientists across all disciplines;
 </p>
 </li>
 <li>
@@ -213,9 +213,10 @@ Mathematics departments should start buying tokens instead of journal subscripti
 The journal–community system will have to change, possibly by adopting a limit of one or two publications per year with an open review involving direct discussion, technically assisted by LLMs, about why the work was worth doing;
 </p>
 </li>
- <p align="justify">
-Adavenced Mathematics will be in hands of many types of scientists in Biology, Medicine, Sociology, etc..; 
- </p>
+<li>
+<p align="justify">
+Advanced mathematics will be in the hands of many types of scientists in biology, medicine, sociology, etc.;
+</p>
 </li>
 </ul>
 
