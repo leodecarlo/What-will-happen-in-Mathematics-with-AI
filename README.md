@@ -181,7 +181,7 @@ At least in the US, we are seeing for the first time many mathematicians and the
 </li>
 <li>
 <p align="justify">
-We have a new field where Mathematics will play a great in solving new problems: the math of AI !
+We have a new field where Mathematics will play a great role in solving new problems: the math of AI !
 </p>
 </li>
 </ul>
