@@ -22,7 +22,7 @@ On the contrary, I will argue that AI can lead to many connections between diffe
 </p>
 
 <p align="justify">
-(Ironically, one of the Fields Medalists was nominated as a strategic consultant for his country's scientific and technological strategy, yet considered AI (in the sense of LLMs) uninteresting and irrelevant. Years earlier, OpenAI and DeepMind had declared their intention to create AGI.)
+(Ironically, one of the Fields Medalists was nominated as a strategic consultant for his country's scientific and technological strategy, yet considered AI (in the sense of LLMs) uninteresting and irrelevant. Years earlier, OpenAI and DeepMind had declared their intention to create AGI.I want to make a laude to these companies which are "solo" making the greatest scinetifical and technical enterprise of this century, keep going when continuously mocked. )
 </p>
 
 ## The ways of working with AI
