@@ -65,7 +65,7 @@ Another great source of new mathematics will come from the availability of bots 
 </p>
 
 <p align="justify">
-So pure mathematicians have real brain teasers to deal with, and they also have to convince new students to enter the field. But I think they can still have a job if they adapt; of course, they cannot pretend to demolish data centers. Pure mathematicians are used to working mostly individually or in small groups. The possible future I see is that they become a sort of mathematics developers, i.e., form varied, larger groups that determine what would be an interesting question where different branches of mathematics are expected to meet, formulate the problem clearly, and create the right harness for the AI (see <a href="https://github.com/leodecarlo/How-to-adopt-an-agentic-AI-workflow-for-Mathematics">here</a>). Once the AI has done its work, they start to review the output and eventually iterate until they consider it worthwhile.
+So pure mathematicians have real brain teasers to deal with, and they also have to convince new students to enter the field. But I think they can still have a job if they adapt; of course, they cannot pretend to demolish data centers. Pure mathematicians are used to working mostly individually or in small groups. The possible future I see is that they become a sort of mathematics developers, i.e., form varied, larger groups that determine what would be an interesting question where different branches of mathematics are expected to meet, formulate the problem clearly, building agetns that make interact different AI models and create the right harness for the AI (see <a href="https://github.com/leodecarlo/How-to-adopt-an-agentic-AI-workflow-for-Mathematics">here</a>). Once the AI has done its work, they start to review the output and eventually iterate until they consider it worthwhile.
 </p>
 
 <p align="justify">
@@ -83,6 +83,33 @@ On this, I open the next short subsection on where the labs are wrong or are not
 AI is incredible; it will accelerate things in labs where running many experiments is an advantage. OpenAI is advertising the acceleration of scientific discoveries it will help with, for example, dark matter or controlled fusion. But these guys do not realize that AI will help with neither dark matter nor controlled fusion. The first has a high probability of not existing; it is an ad hoc term that has been postulated. The second might not even be theoretically possible. AI is made to please you, not to tell you that what you are doing does not make sense, so it cannot really help with these things.
 </p>
 
+## The risk of losing abilities
+
+A treat is the risk that one that many professions faced with technologies, i.e. the loose of abilities as the navigator that passed from learning a lot about maps, stars and sky, winds, etc. to controlling the signals of many sensors. Or a taxi drivers in old European cities that spent longs hours to learn maps of the cities to now where you jump into a Uber and an indian driver, who does not where it is and can not speak with you, will conduce you perfectly from A to B in a messy big city.
+For Mathematician the equivalent will  loosing the ability of doing pure computations, since these entities will be better than us, it is something that will have to mantained just for sport.
+
+## The Pros and the Cons of AI in Math
+
+I list some Pros and Cons that I see with introduction of AI in Math, plus some neutral points that I let the reader to decide.
+
+# Pros:
+
+- Great synthesis and cross-fertilization between different area Mathematics;
+- Ability to solve models that were before not solvable;
+- Possibility to learn new literature and new areas you are not familiar with;
+- Attempting many routes to guess if some can be interesting, instead of giving up a priori or risking to wasting long months. More in general can give the courage to attempt things you would have not;
+- The number of Phds and Postdocs became high, many of them they do not real master-apprentice experience that was supposed to be, getting lost, often assigned to complete some unfinished task with not that much reflexetion or in some sort aof limbo of not knowing  how to proceed in short contract period of  work. On the other side Professors have little time to explain details on papers that the Phds and Postdocs would need. AI can fill the gap to introduce you in a topic, can avoid pro-forma assignments for better problem and probably avoiding that discomfort feeling of getting stucked.
+- Most of job in consulating for Mathematicians they are already gone. I put it between the pros because most of it are terrible;
+- At least in US, inside this BigTech companies,  we are seeing for the first time many mathematicians and theoretical physicists hired by companies to actually work on fundamentals science or in job that realluy require that type of strong theoretical brackground. We should be happy of these new job opportunities.
+- 
+
+# Cons
+
+- Availability of the models: 
+- Loosing the ability to do computations by hand;
+- Loosing the ability to do code (Engineer as Andrew NG admitted he already rarely write a line of code);
+- Feeling less valuable;
+- Students will be even mode hesistant to enroll in Math programs;
 
 
 
