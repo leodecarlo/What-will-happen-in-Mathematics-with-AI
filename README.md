@@ -213,7 +213,6 @@ Mathematics departments should start buying tokens instead of journal subscripti
 The journal–community system will have to change, possibly by adopting a limit of one or two publications per year with an open review involving direct discussion, technically assisted by LLMs, about why the work was worth doing;
 </p>
 </li>
-</ul>
  <p align="justify">
 Adavenced Mathematics will be in hands of many types of scientists in Biology, Medicine, Sociology, etc..; 
  </p>
