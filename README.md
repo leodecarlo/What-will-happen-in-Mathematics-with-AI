@@ -135,6 +135,11 @@ Ability to solve models that were previously unsolvable;
 </li>
 <li>
 <p align="justify">
+Many new problems and unxpected applications of Math coming from the use of AI by scientists accross all disciplines;
+</p>
+</li>
+<li>
+<p align="justify">
 Possibility to learn new literature and new areas you are not familiar with;
 </p>
 </li>
@@ -209,6 +214,10 @@ The journal–community system will have to change, possibly by adopting a limit
 </p>
 </li>
 </ul>
-  
+ <p align="justify">
+Adavenced Mathematics will be in hands of many types of scientists in Biology, Medicine, Sociology, etc..; 
+ </p>
+</li>
+</ul>
 
 
