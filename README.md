@@ -88,12 +88,17 @@ AI is incredible; it will accelerate things in labs where running many experimen
 A treat is the risk that one that many professions faced with technologies, i.e. the loose of abilities as the navigator that passed from learning a lot about maps, stars and sky, winds, etc. to controlling the signals of many sensors. Or a taxi drivers in old European cities that spent longs hours to learn maps of the cities to now where you jump into a Uber and an indian driver, who does not where it is and can not speak with you, will conduce you perfectly from A to B in a messy big city.
 For Mathematician the equivalent will  loosing the ability of doing pure computations, since these entities will be better than us, it is something that will have to mantained just for sport.
 
+## Model Avalilability and Transfer Knowledge
+
+One central questions it the availability of AI frontier model, given that they have a cost. This implicate that they will be more available to researchers in richer country and richer Univeristy. On this I have to complain with the initiative AI for research from OpenAI where AI will make available a certain numbers of seats available
+
 ## The Pros and the Cons of AI in Math
 
 I list some Pros and Cons that I see with introduction of AI in Math, plus some neutral points that I let the reader to decide.
 
 # Pros:
 
+- 
 - Great synthesis and cross-fertilization between different area Mathematics;
 - Ability to solve models that were before not solvable;
 - Possibility to learn new literature and new areas you are not familiar with;
