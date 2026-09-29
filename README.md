@@ -179,6 +179,7 @@ Most consulting jobs for mathematicians are already gone. I put this among the p
 At least in the US, we are seeing for the first time many mathematicians and theoretical physicists hired by Big Tech companies to work on fundamental science or in jobs that require a strong theoretical background. We should welcome these new job opportunities. I strongly suggest that PhDs keep an eye on the <a href="https://openai.com/residency/">OpenAI Residency</a>, which periodically opens well-paid, six-month research positions that can lead to full-time jobs.
 </p>
 </li>
+<li>
 <p align="justify">
 We have a new field where Mathematics will play a great in solving new problems: the math of AI !
 </p>
