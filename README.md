@@ -13,7 +13,7 @@ But the problem was actually starting to actually being of help at  work, given 
 </p>
 
 <p align="justify">
-Later, at the beginning of 2025, I came back to live in Portugal for a job mainly in teaching. In the meantime, in the middle of 2026, I had the opportunity to take a new job in mathematical research. So I came back to mathematical research at a point similar to where I was in 2023 with my new job. I did not feel that things were changing dramatically in my daily job: given that I was restarting my old job without an established network, it was natural to turn to AI for help.
+Later, at the beginning of 2025, I came back to live in Portugal for a job mainly in teaching. In the meantime, in the middle of 2026, I had the opportunity to take a new job in mathematical research. So I came back to mathematical research at a point similar to where I was in 2023 with my new job. I did not feel that things were changing dramatically in my daily job: given that I was restarting my old job without an established network, it was natural to turn to AI for help. But this time AI was improving faster in Math then how faster it progressed in coding and terminal use!
 </p>
 
 
