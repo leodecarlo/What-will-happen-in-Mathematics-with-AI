@@ -217,25 +217,26 @@ Students will be even more hesitant to enroll in mathematics programs;
 #### Neutral Aspects
 
 <ul>
-<li>
-<p align="justify">
-Mathematics departments should start buying tokens instead of journal subscriptions;
-</p>
-</li>
-<li>
-<p align="justify">
-The journal–community system will have to change, possibly by adopting a limit of one or two publications per year with an open review involving direct discussion, technically assisted by LLMs, about why the work was worth doing;
-</p>
-</li>
-<li>
-<p align="justify">
-Advanced mathematics will be in the hands of many types of scientists(and companies) in biology, medicine, sociology, etc.;
-</p>
-</li>
-<p align="justify">
-All mathematicians can now code and discover things coding;
-</p>
-</li>
+  <li>
+    <p align="justify">
+      Mathematics departments should start buying tokens instead of journal subscriptions;
+    </p>
+  </li>
+  <li>
+    <p align="justify">
+      The journal–community system will have to change, possibly by adopting a limit of one or two publications per year with an open review involving direct discussion, technically assisted by LLMs, about why the work was worth doing;
+    </p>
+  </li>
+  <li>
+    <p align="justify">
+      Advanced mathematics will be in the hands of many types of scientists (and companies) in biology, medicine, sociology, etc.;
+    </p>
+  </li>
+  <li>
+    <p align="justify">
+      All mathematicians can now code and discover things by coding.
+    </p>
+  </li>
 </ul>
 
 
