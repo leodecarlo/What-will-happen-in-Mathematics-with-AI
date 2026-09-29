@@ -31,6 +31,8 @@ On the contrary, I will argue that AI can lead to many connections between diffe
 
 ### The ways of working with AI
 
+When you use AI, you give it an input from which you obtain an output produced by a function written in code. From this perspective, it is similar to a familiar tool in mathematics called numerical analysis, where, given initial and boundary conditions, you obtain an output from code running discrete mathematical maps. Maybe this view can make mathematicians feel more comfortable with being supported by AI.
+
 <p align="justify">
 I think there are healthy ways and sick ways to work with AI. Now it is possible to adopt two ways of working with AI. The "traditional" one, which is the most widely used and known, is to work with AI as a peer through a chat. If you take the time to figure out what it says and proceed step by step, I do not see this as very different from working with a peer, exchanging information and learning from each other. A typical way AI will help you is something like this: I need to find a bound, the usual inequalities in my field do not work, and I have no idea who or what could help, or whom to ask (or who would even be willing to hear about my problems). I ask AI, and it finds, who knows where, an inequality that helps. It has happened to me that it found inequalities from analytic number theory to provide the bound, which, of course, I would not have found. Also, in my experience, it is very easy to get references to cite from AI, so I do not agree that using AI means you will not cite those who deserve it (unless you do not want to). On the contrary, with its encyclopedic knowledge, your work will have a much better chance of surviving over time and being used when you do not expect it, in some distant future.
 This mode is also great for understanding literature (like reading a paper or a book) that is outside your background but that you would like to explore in order to merge it with your research and establish new bridges.
@@ -175,6 +177,10 @@ Most consulting jobs for mathematicians are already gone. I put this among the p
 <li>
 <p align="justify">
 At least in the US, we are seeing for the first time many mathematicians and theoretical physicists hired by Big Tech companies to work on fundamental science or in jobs that require a strong theoretical background. We should welcome these new job opportunities. I strongly suggest that PhDs keep an eye on the <a href="https://openai.com/residency/">OpenAI Residency</a>, which periodically opens well-paid, six-month research positions that can lead to full-time jobs.
+</p>
+</li>
+<p align="justify">
+We have a new field where Mathematics will play a great in solving new problems: the math of AI !
 </p>
 </li>
 </ul>
