@@ -6,7 +6,7 @@ I start with a short personal history to tell you how I formed my opinions.
 
 <p align="justify">
 At the end of 2022, for a mix of reasons, I was trying to understand what escape routes I had for leaving my postdoc. I had read that, in Europe, they were creating a large consortium called EuroHPC to provide a GPU-based computing infrastructure and that they were going to hire many future unemployed PhDs. I had a look at these GPUs, and I realized that they were extraordinary. A little later, GPT-3 came out for the average user, and an application to work at the Italian EuroHPC center appeared on my phone. So I applied, had some three interviews, received a job offer, and accepted it. After an initial period of "who knows what to do here," I was involved in projects about training AI models for climate and weather and data anonymization.
-But the problem was actually starting to work, given that I was not even able to submit a "job" to run code on this infrastructure. I turned to extensive use of GPT-3 to make some contributions to the projects. It was frustrating because I was running things without understanding or knowing anything about them. But by dividing my tasks into small enough pieces and delegating them to GPT-3, I could accomplish advanced engineering tasks. Many people around me did not realize that I was more of a prompter than an engineer, since I was doing what they were doing. At that time, GPT was not the astonishing entity it is now, so most people did not take it seriously or use it, particularly if they felt they were experts in what they were doing. I am telling this because, from the beginning, I always had the impression that it was something big and not a "parrot" (as an expert in stochastic modelling ironically said at the time). I could not have done anything close to this with Google; I felt that GPT could adapt to my requests.
+But the problem was actually starting to work, given that I was not even able to submit a "job" to run code on this infrastructure. I turned to extensive use of GPT-3 to make some contributions to the projects. It was frustrating because I was running things without understanding or knowing anything about them. But by dividing my tasks into small enough pieces and delegating them to GPT-3, I could accomplish advanced engineering tasks. Many people around me did not realize that I was more of a prompter than an engineer, since I was doing what they were doing. At that time, GPT was not the astonishing entity it is now, so most people did not take it seriously or use it, particularly if they felt they were experts in what they were doing. I am telling this story because, from the beginning, I always had the impression that it was something big and not a "parrot" (as an expert in stochastic modelling ironically said at the time). I could not have done anything close to this with Google; I felt that GPT could adapt to my requests.
 </p>
 
 <p align="justify">
@@ -65,7 +65,7 @@ Another great source of new mathematics will come from the availability of bots 
 </p>
 
 <p align="justify">
-So pure mathematicians have real brain teasers to deal with, and they also have to convince new students to enter the field. But I think they can still have a job if they adapt; of course, they cannot pretend to demolish data centers. Pure mathematicians are used to working mostly individually or in small groups. The possible future I see is that they become a sort of mathematics developers, i.e., form varied, larger groups that determine what would be an interesting question where different branches of mathematics are expected to meet, formulate the problem clearly, building agetns that make interact different AI models and create the right harness for the AI (see <a href="https://github.com/leodecarlo/How-to-adopt-an-agentic-AI-workflow-for-Mathematics">here</a>). Once the AI has done its work, they start to review the output and eventually iterate until they consider it worthwhile.
+So pure mathematicians have real brain teasers to deal with, and they also have to convince new students to enter the field. But I think they can still have a job if they adapt; of course, they cannot pretend to demolish data centers. Pure mathematicians are used to working mostly individually or in small groups. The possible future I see is that they become a sort of mathematics developer, i.e., form varied, larger groups that determine what would be an interesting question where different branches of mathematics are expected to meet, formulate the problem clearly, build agents that make different AI models interact, and create the right harness for the AI (see <a href="https://github.com/leodecarlo/How-to-adopt-an-agentic-AI-workflow-for-Mathematics">here</a>). Once the AI has done its work, they start to review the output and eventually iterate until they consider it worthwhile.
 </p>
 
 <p align="justify">
@@ -85,50 +85,130 @@ AI is incredible; it will accelerate things in labs where running many experimen
 
 ## The risk of losing abilities
 
-A treat is the risk that one that many professions faced with technologies, i.e. the loose of abilities as the navigator that passed from learning a lot about maps, stars and sky, winds, etc. to controlling the signals of many sensors. Or a taxi drivers in old European cities that spent longs hours to learn maps of the cities to now where you jump into a Uber and an indian driver, who does not where it is and can not speak with you, will conduce you perfectly from A to B in a messy big city.
-For Mathematician the equivalent will  loosing the ability of doing pure computations, since these entities will be better than us, it is something that will have to mantained just for sport.
+<p align="justify">
+One threat is a risk that many professions have faced as technology has developed: the loss of abilities. Think of navigators, who have gone from learning a lot about maps, the stars and sky, winds, etc., to monitoring signals from many sensors. Or of taxi drivers in old European cities, who used to spend long hours learning city maps, compared with today, when you can jump into an Uber and an Indian driver, who does not know where he is and cannot speak with you, will take you perfectly from A to B in a large, chaotic city.
+For mathematicians, the equivalent will be losing the ability to do pure computations. Since these entities will be better than us, this ability will have to be maintained just for sport.
+</p>
 
-## Model Avalilability and Transfer Knowledge
+## Model Availability and Knowledge Transfer
 
-One central questions it the availability of AI frontier model, given that they have a cost. This implicate that they will be more available to researchers in richer country and richer Univeristy. On this point, I have a criticism of OpenAI’s <a href="https://openai.com/index/chatgpt-for-academic-researchers/">ChatGPT for Academic Researchers</a> program, which offers a certain number of free seats to academic researchers accros the world. Most of the eligible institution are from US or well-known North European Univeristy. Of course Institutio as IAS of Princetion and ENS de Paris they do not need a free subscriptions to Pro models. For example, here in Portugal, just University of Porto is eligible. The execuse is that the tools will do the best in the best hands. Instead I think that this tools can transfer knowledge to less scientifically developed country to make them growth, given that often the scientifical growth a person is an interacting activity, where someone show how to do things and explain. I think that the availability of these models can make growth the scientifical abilties of less developed countries. This might be ameliorated by the fact that after some lapse of time, trough something called model distillation, the free chinese model goos as much as the previous generations of US models.
+<p align="justify">
+One central question is the availability of frontier AI models, given that they come at a cost. This implies that they will be more available to researchers in richer countries and richer universities. On this point, I have a criticism of OpenAI’s <a href="https://openai.com/index/chatgpt-for-academic-researchers/">ChatGPT for Academic Researchers</a> program, which offers a certain number of free seats to academic researchers across the world. Most of the eligible institutions are either in the US or are well-known Northern European universities. Of course, institutions such as the IAS in Princeton and the ENS in Paris do not need free subscriptions to Pro models. For example, here in Portugal, only the University of Porto is eligible. The excuse is that the tools will do their best in the best hands. Instead, I think that these tools can transfer knowledge to less scientifically developed countries and help them grow, given that a person's scientific growth is often an interactive process in which someone shows how to do things and explains them. I think that the availability of these models can help the scientific capabilities of less developed countries grow. This might be improved by the fact that, after some time, through something called model distillation, free Chinese models become as good as previous generations of US models.
+</p>
 
 ## Infrastructure dependence
 
-An important point is also the infrastructure dependece, indeed in Europe we just build this still very confused Project called Euro-HPC to create AI-factories. But nor the organization neither the scale infrastructure is suitable to develop AI LLM frontiers models and even less to give a commercial service. So we have to hope they will keep to available at the same prices.
+<p align="justify">
+Infrastructure dependence is also an important point. Indeed, in Europe, we have just built this still very confused project called Euro-HPC to create AI factories. But neither the organization nor the scale of the infrastructure is suitable for developing frontier LLMs, and even less so for providing a commercial service. So we have to hope they will keep the models available at the same prices.
+</p>
 
-## The disruption of the triad Small_communities-Journals-Grants
+## The disruption of the triad of small communities, journals, and grants
 
-Most of mathematicians work in small communities that proceed to develop some technical self-defined framework,  agnostic to the outside world. AI models are better more the problem is circumscribed, so communities will have to shift in choicing problems of more general interest, explaining why they want to address something. The already too large paper productions will be out of control, so I have no idea if journal will continue to exist. A possible scheme is adopting  free repository for pubblications, with a bound of max 1-2 pubblications per year,  with an open review process where, after a technical check of the result, assisted by LLMs, one of the authors explain why they did that and why it is relevant , while the review make his point he agrees or not. 
-About grants, I have no idea how they should evolve, maybe the solution of the Navier-Stokes problem teaches us that it is more important having as much as possible having many person working on various subproblems.
+<p align="justify">
+Most mathematicians work in small communities that proceed to develop a technical framework they define themselves, agnostic to the outside world. AI models perform better the more circumscribed the problem is, so communities will have to shift toward choosing problems of more general interest and explaining why they want to address them. The already overly large output of papers will get out of control, so I have no idea whether journals will continue to exist. A possible scheme is to adopt a free repository for publications, with a limit of one or two publications per year and an open review process in which, after a technical check of the result assisted by LLMs, one of the authors explains why they did the work and why it is relevant, while the reviewer explains their position, whether they agree or not.
+As for grants, I have no idea how they should evolve. Maybe the solution to the Navier–Stokes problem teaches us that it is more important to have as many people as possible working on various subproblems.
+</p>
  
 ## The Pros and the Cons of AI in Math
 
-I list some Pros and Cons that I see with introduction of AI in Math, plus some neutral points that I let the reader to decide.
+<p align="justify">
+I list some pros and cons that I see in the introduction of AI into mathematics, along with some neutral points that I leave for the reader to judge.
+</p>
 
 ### Pros:
 
-- Transfer knowledge: the models can provide for that interactive actitivy  and personal explanation necessary to learn to less scientifically developed comunities; 
-- Great synthesis and cross-fertilization between different area Mathematics;
-- Ability to solve models that were before not solvable;
-- Possibility to learn new literature and new areas you are not familiar with;
-- Attempting many routes to guess if some can be interesting, instead of giving up a priori or risking to wasting long months. More in general can give the courage to attempt things you would have not;
-- The number of Phds and Postdocs became high, many of them they do not real master-apprentice experience that was supposed to be, getting lost, often assigned to complete some unfinished task with not that much reflexetion or in some sort aof limbo of not knowing  how to proceed in short contract period of  work. On the other side Professors have little time to explain details on papers that the Phds and Postdocs would need. AI can fill the gap to introduce you in a topic, can avoid pro-forma assignments for better problem and probably avoiding that discomfort feeling of getting stucked.
-- Most of job in consulating for Mathematicians they are already gone. I put it between the pros because most of it are terrible;
--  At least in the US, we are seeing for the first time many mathematicians and theoretical physicists hired by Big Tech companies to work on fundamental science or in jobs that require a strong theoretical background. We should welcome these new job opportunities. I strongly suggest that PhDs keep an eye on the [OpenAI Residency](https://openai.com/residency/), which periodically opens well-paid, six-month research positions that can lead to full-time jobs.
+<ul>
+<li>
+<p align="justify">
+Knowledge transfer: the models can provide less scientifically developed communities with the interaction and personal explanations needed to learn;
+</p>
+</li>
+<li>
+<p align="justify">
+Great synthesis and cross-fertilization between different areas of mathematics;
+</p>
+</li>
+<li>
+<p align="justify">
+Ability to solve models that were previously unsolvable;
+</p>
+</li>
+<li>
+<p align="justify">
+Possibility to learn new literature and new areas you are not familiar with;
+</p>
+</li>
+<li>
+<p align="justify">
+Trying many routes to see whether any are interesting, instead of giving up a priori or risking wasting many months. More generally, this can give you the courage to attempt things you would not otherwise have tried;
+</p>
+</li>
+<li>
+<p align="justify">
+The number of PhD students and postdocs has become large. Many of them do not have the real master–apprentice experience they were supposed to have: they get lost, are often assigned to complete some unfinished task without much reflection, or remain in a sort of limbo, not knowing how to proceed during a short contract. On the other hand, professors have little time to explain the details of papers that PhD students and postdocs would need to understand. AI can fill this gap by introducing you to a topic, help avoid pro forma assignments in favor of better problems, and probably prevent the discomfort of feeling stuck.
+</p>
+</li>
+<li>
+<p align="justify">
+Most consulting jobs for mathematicians are already gone. I put this among the pros because most of them are terrible;
+</p>
+</li>
+<li>
+<p align="justify">
+At least in the US, we are seeing for the first time many mathematicians and theoretical physicists hired by Big Tech companies to work on fundamental science or in jobs that require a strong theoretical background. We should welcome these new job opportunities. I strongly suggest that PhDs keep an eye on the <a href="https://openai.com/residency/">OpenAI Residency</a>, which periodically opens well-paid, six-month research positions that can lead to full-time jobs.
+</p>
+</li>
+</ul>
   
 ### Cons
 
-- Availability of the models: frontier models for research have a price, that is not obvious to be paid for less rich countries;
-- Infrastructure dependence: the models need for developing and commercial service humoungous infrastructure. Just Chine and US have it.
-- Loosing the ability to do computations by hand;
-- Loosing the ability to do code (Engineer as Andrew NG admitted he already rarely write a line of code);
-- Feeling less valuable;
-- Students will be even mode hesistant to enroll in Math programs;
+<ul>
+<li>
+<p align="justify">
+Availability of the models: frontier models for research come at a price that may be difficult for less wealthy countries to afford;
+</p>
+</li>
+<li>
+<p align="justify">
+Infrastructure dependence: developing the models and providing commercial services require enormous infrastructure. Only China and the US have it.
+</p>
+</li>
+<li>
+<p align="justify">
+Losing the ability to do computations by hand;
+</p>
+</li>
+<li>
+<p align="justify">
+Losing the ability to write code (Andrew Ng, an engineer, has admitted that he already rarely writes a line of code);
+</p>
+</li>
+<li>
+<p align="justify">
+Feeling less valuable;
+</p>
+</li>
+<li>
+<p align="justify">
+Students will be even more hesitant to enroll in mathematics programs;
+</p>
+</li>
+</ul>
 
 ### Neutral Aspects
 
-- Math Departments should start buying tokens instead of journal subscription;
-- The journal-communities systems will have to change. Possibly adopting a bound of 1-2 pubblications per year with an open frontal review, technically assisted by LLMs, where the discussion is about why the work worthed to be done;
+<ul>
+<li>
+<p align="justify">
+Mathematics departments should start buying tokens instead of journal subscriptions;
+</p>
+</li>
+<li>
+<p align="justify">
+The journal–community system will have to change, possibly by adopting a limit of one or two publications per year with an open review involving direct discussion, technically assisted by LLMs, about why the work was worth doing;
+</p>
+</li>
+</ul>
   
 
 
