@@ -42,8 +42,9 @@ The sick way would be to try to use an autonomous agentic AI workflow to produce
 
 ## What current AI lacks along its builder and what might be future jobs in Mathematics
 
-What I heard looking interview by its builder, while they think they can have entities that will surpass human ability to perform analytical computations (and from my direct experience I believe), they say that they have no idea how to train AI "to be Einstein", that is having the immagination to make gravity theory from an analogy between a person a in elevator and the motion of Sun and Earth. For this a real benchmark would creating a datasets with human knowledge until 1900 and, during the evolution of AI models, asking to make a new theory of gravity. 
-So probably immagination, a general view of the field and personal culture will acquire more value with respect an technical hyperspecialization, given the off-loading technical parts of the work. 
+What I heard looking interview by its builder, while they think they can have entities that will surpass human ability to perform analytical computations (and from my direct experience I believe), they say that they have no idea how to train AI "to be Einstein", that is having the immagination to make gravity theory from an analogy between a person a in elevator and the motion of Sun and Earth. For this a real benchmark would creating a datasets with human knowledge until 1900 and, during the evolution of AI models, asking to make a new theory of gravity to explainthe the anomalous advance of Mercury’s perihelio. When AI will be have also this capabilities we can stop do to science as professional activity. 
+
+So probably immagination, curiosiuty,  a general view of the field and personal culture will acquire more value with respect an technical hyperspecialization, given the off-loading technical parts of the work. 
 
 Probably the greatest skill of AI in mathematics is the ability to act as a sort of collective intellegince, putting  together the pieces of all we have done so far, a job that would not be possible unless all world mathematicians would decide to stop writing papers to work on collecting together their pieces of information. So if a great goal of Mathematics is the synthesis AI is the perfect tool to do it. On this I suggest reading this article by professional Mathematicians [article](https://openai.com/index/model-disproves-discrete-geometry-conjecture/).
 
@@ -52,37 +53,18 @@ Probably the greatest skill of AI in mathematics is the ability to act as a sort
 Math can be divide crudely into pure Math and applied Mathematics. The pure  Mathematics is realm of pure ideal object and structure, where nobody argues
 about axioms for the integers or geometry,  and it  isn't a branch of philosophy, where we prize deep understanding,  it's about getting to the answer.
 And I think it is false that AI solving problem on the long term will forbid the development of new Mathematics in the future, on the contrary our continuotion interactions with AI create new precious high quality datasets, that already passed a sort of review and will be reviewed again. This process will make transition AI from imitating our Math to creating its own new Mathematics (exactly as happend in Go AI will pass from imitating human moves to make its own new moves that were not written in any Go book.) 
+Another great source of new Math will come from the availability of bots to Scientists accross discipline, like Biology, Sociology, where the iteraction with Matheamticians is very diffciult on both ends, and usually neither Mathematicians are that willing to cooperate, given the risk to not take out a technical paper from a collaboration. The constant presence of boths in labs of scientisti distant from Math will probably make lead to many new application of Mathematics into real world and new Math problem at the same, coming directly from it.
+
 So pure Mathematicians have real brain teaser to deal with and also to convince new students to get in. But I think they can still have a job if adapt, of course they can not pretend to demolish Data Centers. Pure Mathematicians are used to work mostly individually or small group,  the possible future that I see is that they become a sort of Mathematics Developers, i.e. making variegated larger groups that establish which should an interesting question where different branches of mathematics are expected to meet, formulate the problem clearly and create the right harness for the AI (see <a href="https://github.com/leodecarlo/How-to-adopt-an-agentic-AI-workflow-for-Mathematics">here</a>), once the AI has done start to review the output and eventually iterate until they consider it worths.
 
-Then we have  applied mathematics, which is has two steps: first postulating a model or theory, then producing the predictions from the equations. Einstein, Kuhn and others argued that there is no "mechanical" procedure to build a theory but rather it depends on the
-poser's imagination, history, personality, etc. That's how it differs from pure mathematics, where nobody argues
-about axioms for the integers or geometry. 
+Applied mathematics will likely remain as a profession, because Conceivable, model choice will remain a human activity. Then we have  applied mathematics, it is a two-step activity, and the first step is the most important: choosing the axioms, or assumptions, for the model.  As Thomas Kuhn pointed out in 1962, there is no "mechanical" procedure to build a theory but rather it depends on the poser's background, personality, biases, curiosity and imagination. And controversy about these assumptions is inevitable. By contrast, Pure math might be characterized as the only discipline in which no controversy arises about axioms (e.g., nobody argues over what is an integer,or a sphere). That's how it differs from pure mathematics, where nobody argues about axioms for the integers or geometry.  The second step---solving the equations and writing code, in order to discover the predictions of the model---may be turned over to the AI assistants.
+The bots have done the reading; but do not seem havi the curiosity  and the drive (incentives).
 
+On this I open a next short subsection on where the Labs are wrong or not adversing the true.
 
-Here is what I would say at your meeting, if I were asked:
+### Where AI Labs are wrong or not telling the true: Entities alligned to please will not develop unconventional science
 
-Pure mathematics, as a career, is finished. Dead. Attempting to justify its continued existence
-by claiming, as did the Fields Medalists recently, that they can still be relevant because they have
-a deep philosophical understanding of math won't fly. That would render mathematics as a branch of philosophy.
-Nobody is likely to give grant support to a big bunch of new philosophers. Nor will students sign up for their
-classes.
-
-Applied mathematics will likely remain as a profession, because it is a two-step activity, and the first step is
-the most important: choosing the axioms, or assumptions, for the model. This step involves,
-as Thomas Kuhn pointed out in 1962, the theorist's or modeler's background, personality,
-biases, and imagination. And controversy about these assumptions is inevitable. By contrast,
-Pure math might be characterized
-as the only discipline in which no controversy arises about axioms (e.g., nobody argues over what is an integer,
-or a sphere). Conceivable, model choice will remain a human activity. The second step---solving the equations, in order to discover the predictions of the model---may be turned over to the AI assistants.
-I like the assertion that the bots have no imagination.
-I think creativity is largely a function of personal history, plus curiosity. I'm reading a biography of Francis Crick (of DNA fame). He met essentially everybody in the field before arriving at the structure. Einstein is a bit harder to understand, as he mostly worked alone. (Except for his collaboration with his first wife.) Still, he presumably read all the European authors who wrote about Maxwell or thermodynamics. The bots have done the reading; but do they have the curiosity?
-And the drive (incentives)?
-
-### Where AI Labs are wrong or not telling the true
-
-AI is incredible, it will accelerate things in labs where running many experiments is an advantage, OpenAI is advertising the acceleration of scientific discoveries it will help with, like dark matter or controlled  fusion. But these guys are not figuring out that AI will help neither with dark matter nor with controlled fusion. The first does not exist; it is the most ad hoc term ever postulated in science. The second is probably not even theoretically possible.
-
- AI cannot experience the real world, and it does not have genuine imagination. These are not math problems that you can define in a circumscribed way, and they are not BioLabs that you can automate to run many experiments. Moreover, AI is made to please you, not to tell you that what you are doing is a bunch of idiocies, so it cannot really help with these things.
+AI is incredible, it will accelerate things in labs where running many experiments is an advantage, OpenAI is advertising the acceleration of scientific discoveries it will help with, for example dark matter or controlled  fusion. But these guys are not figuring out that AI will help neither with dark matter nor with controlled fusion. The first has high probability  not existing; it is ad hoc term  postulated. The second might be  not even theoretically possible. AI is made to please you, not to tell you that what you are doing does not make sense, so it cannot really help with these things.
 
 
 
