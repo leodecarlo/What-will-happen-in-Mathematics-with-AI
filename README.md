@@ -232,6 +232,10 @@ The journal–community system will have to change, possibly by adopting a limit
 Advanced mathematics will be in the hands of many types of scientists(and companies) in biology, medicine, sociology, etc.;
 </p>
 </li>
+<p align="justify">
+All mathematicians can now code and discover things coding;
+</p>
+</li>
 </ul>
 
 
