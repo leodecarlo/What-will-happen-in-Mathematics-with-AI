@@ -130,6 +130,11 @@ Great synthesis and cross-fertilization between different areas of mathematics;
 </li>
 <li>
 <p align="justify">
+Opportunity to reorganize the scientifical goals of Mathematical Research;
+</p>
+</li>
+<li> 
+<p align="justify">
 Ability to solve models that were previously unsolvable;
 </p>
 </li>
