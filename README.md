@@ -166,7 +166,7 @@ Trying many routes to see whether any are interesting, instead of giving up a pr
 </li>
 <li>
 <p align="justify">
-The number of PhD students and postdocs has become large. Many of them do not have the real master–apprentice experience they were supposed to have: they get lost, are often assigned to  some unfinished task without much reflection and neither the advisor remember, or remain in a sort of limbo, not knowing how to proceed during a short contract. On the other hand, professors have little time to explain the details of papers that PhD students and postdocs would need to understand. AI can fill this gap by introducing you to a topic, help avoid pro forma assignments in favor of better problems, and probably prevent the discomfort of feeling lost and stuck.
+The number of PhD students (whose main goal is to formally sign a few papers to justify the piece of paper) and postdocs has become large. Many of them do not have the real master–apprentice experience they were supposed to have: they get lost, are often assigned to  some unfinished task without much reflection and neither the advisor remember, or remain in a sort of limbo, not knowing how to proceed during a short contract. On the other hand, professors have little time to explain the details of papers that PhD students and postdocs would need to understand. AI can fill this gap by introducing you to a topic, help avoid pro forma assignments in favor of better problems, and probably prevent the discomfort of feeling lost and stuck.
 </p>
 </li>
 <li>
